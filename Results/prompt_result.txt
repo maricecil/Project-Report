@@ -76,3 +76,24 @@ Your response should be informative and engaging, helping readers to understand 
 질문: 주식시장이 뭐야?
 응답: 주식시장은 기업의 주식이 거래되는 시장입니다. 투자자들은 주식을 사고팔며, 이 과정을 통해 기업의 자본을 조달하거나 개인의 투자 수익을 추구합니다. 주식시장은 경제의 중요한 지표 중 하나로 여겨집니다.
 
+===============
+질문: 주식시장을 설명해줘
+응답: IMPROVED PROMPT:
+
+As an expert in financial markets, please provide a comprehensive overview of the South Korean stock market. 
+
+### Instructions:
+1. Begin with a brief introduction to the structure of the South Korean stock market, highlighting the distinction between the on-exchange (장내주식시장) and off-exchange (장외주식시장) markets.
+2. Elaborate on the components of the on-exchange market, specifically detailing the characteristics of the 유가증권시장, 코스닥시장, and 코넥스시장.
+3. Explain the nature and significance of the off-exchange market, particularly the K-OTC market.
+4. Discuss the reasons for the separation and distinct operation of these markets.
+5. Your explanation should be clear, informative, and suitable for someone looking to gain a deeper understanding of the South Korean stock market.
+
+### Desired Length:
+Aim for approximately 300-500 words, ensuring that it is detailed yet concise enough to maintain reader interest.
+
+### Style:
+Use a formal and educational tone, suitable for an audience that may include students, investors, or individuals interested in financial markets. 
+
+Feel free to incorporate examples or recent trends to enhance the explanation.
+
